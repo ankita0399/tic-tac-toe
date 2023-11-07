@@ -1,0 +1,14 @@
+.players{
+    font-size: larger;
+    font-weight: 800;
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.content{
+    font-size: larger;
+    font-weight: 600;
+    text-align: center;
+    padding: 5px;
+}

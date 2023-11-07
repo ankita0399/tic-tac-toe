@@ -1,0 +1,14 @@
+.reset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+}
+
+button{
+    background-color: red;
+    padding: 12px;
+    color: wheat;
+    border: none;
+    border-radius: 10px;
+}
